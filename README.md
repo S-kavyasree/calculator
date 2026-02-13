@@ -1,4 +1,4 @@
-# **Scientific Calculator**
+# **Scientific Calculator Task 1**
 
 A Python Tkinter GUI calculator supporting basic arithmetic, scientific, and combinatorial operations in a clean, user-friendly interface.
 
